@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(208, 202, 201);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 60%;
+  width: 25%;
+  margin: auto;
+  padding: 5px;
+}
+
+button {
+  margin: auto;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+input {
+  margin: auto;
+  text-decoration: none;
+  border-radius: 5px;
+}
